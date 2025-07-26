@@ -18,4 +18,9 @@ A lightweight Bash script designed to automatically archive log files by compres
 1. **Make sure the script is executable:**
 
    ```bash
-   
+   git clone https://github.com/GitHubmedcharfi/log-archive-tool.git
+   cd log-archive-tool
+   chmod +x log_archive.sh
+   sudo ./log_archive.sh
+
+
